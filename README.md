@@ -28,7 +28,7 @@ Outside of software engineering, I love going to church and working in the house
 📫 **Get in touch:**
 Have any questions for me or would like to collaborate?
 - [LinkedIn](https://www.linkedin.com/in/mololuwa-segilola/)
-- [Instagram](https://www.instagram.com/mololuwa.codes/)
+- [Instagram](https://www.instagram.com/molodev.gg/)
 - Email: mololuwa.segilola10@gmail.com
 <!--
 **mololuwa10/mololuwa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
