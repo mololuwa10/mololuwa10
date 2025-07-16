@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://yourbannerlink.png" alt="banner" />
+  <a href="https://segilolamololuwa.vercel.app/" target="_blank">
+    <img src="Black and Yellow Web Developer LinkedIn Banner.png" alt="banner" />
+  </a>
 </p>
 
 ## Hi there I'm Mololuwa! 👋
