@@ -9,14 +9,14 @@
 Software Engineer based in England
 
 # About me
-Hi there! I’m Mololuwa Segilola, a passionate Software Engineer who loves crafting user-centric applications and solving complex challenges. 
-I thrive on creativity and collaboration, always eager to optimize performance and build intuitive solutions. 
+Hi there! I’m Mololuwa Segilola, a passionate Software Engineer who loves building user-centric applications and solving complex challenges. 
+I like to explore my creativity and love collaboration, always eager to optimize performance and build intuitive solutions. 
 
-Currently, I’m expanding my skills through personal projects like Task Mate, a task management app designed to make life easier.
-I am looking to get into game development in the future as i love playing console games
+Currently, I’m expanding my skills through personal projects.
+I am looking to get into game development in the future as I love playing console games
 I’m all about continuous learning, problem-solving, and creating engaging experiences that blend technology with storytelling.
 
-Outside of software engineering, I love going to church and working in the house of God, playing games, playing football, watching anime
+Outside of software engineering, I love going to church and working in the house of God, playing games, playing football, watching anime and creating content on Instagram
 
 ## 🛠️ Tech Stack
 
